@@ -1,0 +1,3 @@
+[submodule "dmenu-launch"]
+	path = modules/applications/dmenu/scripts/dmenu-launch
+	url = git@github.com:pog7776/dmenu-launch.git
