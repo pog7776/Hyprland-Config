@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# TODO first arg is terminal emulator e.g. kitty
+
 dmenu_command=(dmenu -i -l 10 -p "Run: ")
 
 #query="$( echo "" | dmenu -p "Run: " <&- )" 
